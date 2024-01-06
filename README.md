@@ -16,9 +16,9 @@ This project implements a remote-controlled fire-fighting robot using an ESP32 m
 ## Hardware Components
 
 - ESP32 microcontroller
-- DC Motors and Motor Drivers
+- DC Motors and Motor Drivers(L298N)
 - Servo Motor
-- Relay for Water Pump
+- Relay for Water Pump(Single Channel)
 - Chassis and Wheels
 - Power Supply(18650, 3.7v)
 
