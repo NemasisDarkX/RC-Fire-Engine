@@ -22,7 +22,7 @@ This project implements a remote-controlled fire-fighting robot using an ESP32 m
 - Chassis and Wheels
 - Power Supply(18650, 3.7v)
 
-![Inside Image](<img src="https://i.ibb.co/0jYM2c5/re-v10.png" alt="re-v10" border="0">)
+<img src="https://i.ibb.co/0jYM2c5/re-v10.png" alt="re-v10" border="0">
 
 ## Getting Started
 
