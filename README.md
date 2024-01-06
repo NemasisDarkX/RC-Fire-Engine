@@ -1,6 +1,6 @@
 # R/C Fire Fighting Bot
 
-![Project Image](https://ibb.co/3YRPTkh)
+<img src="https://i.ibb.co/qFJ2Dx1/full-cover.png" alt="full-cover" border="0">
 
 ## Overview
 
