@@ -62,7 +62,7 @@ This project implements a remote-controlled fire-fighting robot using an ESP32 m
 
 4. Control the robot using the interactive web interface.
 
-![Outside Image](images/outside_image.jpg)
+<img src="https://i.ibb.co/DLdqB0G/Whats-App-Image-2024-01-03-at-19-38-20.jpg" alt="Whats-App-Image-2024-01-03-at-19-38-20" border="0">
 
 ## Web Interface Controls
 
