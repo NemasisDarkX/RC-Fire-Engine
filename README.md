@@ -1,6 +1,6 @@
 # R/C Fire Fighting Bot
 
-![Project Image](images/project_image.jpg)
+![Project Image](https://ibb.co/3YRPTkh)
 
 ## Overview
 
@@ -20,9 +20,9 @@ This project implements a remote-controlled fire-fighting robot using an ESP32 m
 - Servo Motor
 - Relay for Water Pump
 - Chassis and Wheels
-- Power Supply
+- Power Supply(18650, 3.7v)
 
-![Inside Image](images/inside_image.jpg)
+![Inside Image](https://ibb.co/GvC2p0m)
 
 ## Getting Started
 
@@ -38,7 +38,7 @@ This project implements a remote-controlled fire-fighting robot using an ESP32 m
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/fire-fighting-bot.git
+    git clone https://github.com/NemasisDarkX/RC-Fire-Engine.git
     ```
 
 2. Install the required libraries:
