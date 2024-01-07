@@ -60,7 +60,7 @@ This project implements a remote-controlled fire-fighting robot using an ESP32 m
 
 2. Connect to the ESP32 Wi-Fi network (e.g., SSID: Fire Engine, Password: 12345678910).
 
-3. Open a web browser and navigate to the ESP32's IP address (e.g., http://192.168.4.1).
+3. Open a web browser and navigate to the ESP32's IP address (http://192.168.4.1).
 
 4. Control the robot using the interactive web interface.
 
