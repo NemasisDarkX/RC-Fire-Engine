@@ -213,40 +213,7 @@ This project implements a remote-controlled fire-fighting robot using an ESP32 m
       </td>
     </tr>
   </table>
-  <script>
-    var webSocketCarInputUrl = "ws:\/\/" + window.location.hostname + "/CarInput";
-    var websocketCarInput;
-
-    function initCarInputWebSocket() {
-      websocketCarInput = new WebSocket(webSocketCarInputUrl);
-      websocketCarInput.onopen = function (event) {
-        var speedButton = document.getElementById("Speed");
-        sendButtonInput("Speed", speedButton.value);
-
-        var servoAngle = document.getElementById("ServoAngle");
-        sendButtonInput("ServoAngle", servoAngle.value);
-
-        var relayState = document.getElementById("RelayState");
-        sendButtonInput("RelayState", relayState.value);
-      };
-      websocketCarInput.onclose = function (event) {
-        setTimeout(initCarInputWebSocket, 2000);
-      };
-      websocketCarInput.onmessage = function (event) {};
-    }
-
-    function sendButtonInput(key, value) {
-      var data = key + "," + value;
-      websocketCarInput.send(data);
-    }
-
-    window.onload = initCarInputWebSocket;
-    document.getElementById("mainTable").addEventListener("touchend", function (event) {
-      event.preventDefault()
-    });
-  </script>
 </body>
-
 </html>
 
 - **Arrow Buttons**: Move the robot in different directions.
