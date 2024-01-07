@@ -69,7 +69,6 @@ This project implements a remote-controlled fire-fighting robot using an ESP32 m
 ## Web Interface Controls
 <!DOCTYPE html>
 <html>
-
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
   <style>
