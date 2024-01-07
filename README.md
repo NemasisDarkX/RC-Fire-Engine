@@ -77,23 +77,19 @@ This project implements a remote-controlled fire-fighting robot using an ESP32 m
       font-size: 42px;
       color: #50c3ff;
     }
-
     td.button {
       background-color: #7c7c7c;
       border-radius: 25%;
       box-shadow: 0px 0px 2px 1.5px #45c8ff;
     }
-
     td.button:active {
       transform: translate(2px, 2px);
       box-shadow: none;
     }
-
     html {
       height: 100%;
       width: 100%;
     }
-
     .noselect {
       -webkit-touch-callout: none;
       -webkit-user-select: none;
@@ -107,11 +103,9 @@ This project implements a remote-controlled fire-fighting robot using an ESP32 m
       margin: 0;
       padding: 0;
     }
-
     .slidecontainer {
       width: 100%;
     }
-
     .slider {
       -webkit-appearance: none;
       width: 100%;
@@ -123,11 +117,9 @@ This project implements a remote-controlled fire-fighting robot using an ESP32 m
       -webkit-transition: .2s;
       transition: opacity .2s;
     }
-
     .slider:hover {
       opacity: 1;
     }
-
     .slider::-webkit-slider-thumb {
       -webkit-appearance: none;
       appearance: none;
@@ -137,7 +129,6 @@ This project implements a remote-controlled fire-fighting robot using an ESP32 m
       background: #c9ff90;
       cursor: pointer;
     }
-
     .slider::-moz-range-thumb {
       width: 20%;
       height: 20%;
@@ -145,7 +136,6 @@ This project implements a remote-controlled fire-fighting robot using an ESP32 m
       background: red;
       cursor: pointer;
     }
-
     @font-face {
       font-family: 'Orbitron';
       font-style: normal;
