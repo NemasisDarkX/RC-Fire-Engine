@@ -21,6 +21,8 @@ This project implements a remote-controlled fire-fighting robot using an ESP32 m
 - Relay for Water Pump(Single Channel)
 - Chassis and Wheels
 - Power Supply(18650, 3.7v)
+- Dot PCB
+- Male/Female Pin Header
 
 <img src="https://i.ibb.co/0jYM2c5/re-v10.png" alt="re-v10" border="0">
 
