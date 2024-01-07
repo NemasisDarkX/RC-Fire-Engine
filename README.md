@@ -64,16 +64,8 @@ This project implements a remote-controlled fire-fighting robot using an ESP32 m
 
 4. Control the robot using the interactive web interface.
 
-<img src="https://i.ibb.co/DLdqB0G/Whats-App-Image-2024-01-03-at-19-38-20.jpg" alt="Whats-App-Image-2024-01-03-at-19-38-20" border="0">
-
 ## Web Interface Controls
 
-- **Arrow Buttons**: Move the robot in different directions.
-- **Speed Slider**: Adjust the speed of the motors.
-- **Servo Angle Slider**: Control the angle of the servo.
-- **Pump State Slider**: Activate or deactivate the water pump.
-
-## Contributing
 | Control | Description | Action |
 |---------|-------------|--------|
 | &#8679; | Move Forward | [Button](#) |
@@ -84,6 +76,12 @@ This project implements a remote-controlled fire-fighting robot using an ESP32 m
 | Servo Angle | Adjust servo angle | [Slider](#) |
 | Pump State | Control pump state | [Slider](#) |
 
+- **Arrow Buttons**: Move the robot in different directions.
+- **Speed Slider**: Adjust the speed of the motors.
+- **Servo Angle Slider**: Control the angle of the servo.
+- **Pump State Slider**: Activate or deactivate the water pump.
+
+## Contributing
 Feel free to contribute to this project by creating issues or pull requests.
 
 ## License
