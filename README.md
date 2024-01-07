@@ -67,7 +67,6 @@ This project implements a remote-controlled fire-fighting robot using an ESP32 m
 <img src="https://i.ibb.co/DLdqB0G/Whats-App-Image-2024-01-03-at-19-38-20.jpg" alt="Whats-App-Image-2024-01-03-at-19-38-20" border="0">
 
 ## Web Interface Controls
-# R/C FIRE FIGHTING BOT Controls
 
 <iframe srcdoc='
 <!DOCTYPE html>
@@ -206,7 +205,7 @@ This project implements a remote-controlled fire-fighting robot using an ESP32 m
     </tr>
   </table>
 </body>
-</html>' width="600" height="800" style="border:none;"></iframe>
+</html>width="600" height="800" style="border:none;"></iframe>
 
 - **Arrow Buttons**: Move the robot in different directions.
 - **Speed Slider**: Adjust the speed of the motors.
