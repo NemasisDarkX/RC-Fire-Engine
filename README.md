@@ -81,7 +81,7 @@ This project implements a remote-controlled fire-fighting robot using an ESP32 m
 - **Servo Angle Slider**: Control the angle of the servo.
 - **Pump State Slider**: Activate or deactivate the water pump.
 
-## Note
+## Note!
 You can either 3D print the chasis using the 3D model or like in my case use a laser cutter to cut it from a acrylic sheet.
 You can use foarm board to make the water tank for the pump.
 
