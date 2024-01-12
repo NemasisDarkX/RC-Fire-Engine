@@ -19,7 +19,7 @@ This project implements a remote-controlled fire-fighting robot using an ESP32 m
 - DC Motors and Motor Drivers(L298N)
 - Servo Motor
 - Relay for Water Pump(Single Channel)
-- Chassis and Wheels
+- Chassis(20cm x 10cm) and Wheels
 - Power Supply(18650, 3.7v)
 - Dot PCB
 - Male/Female Pin Header
@@ -80,6 +80,10 @@ This project implements a remote-controlled fire-fighting robot using an ESP32 m
 - **Speed Slider**: Adjust the speed of the motors.
 - **Servo Angle Slider**: Control the angle of the servo.
 - **Pump State Slider**: Activate or deactivate the water pump.
+
+## Note
+You can either 3D print the chasis using the 3D model or like in my case use a laser cutter to cut it from a acrylic sheet.
+You can use foarm board to make the water tank for the pump.
 
 ## Contributing
 Feel free to contribute to this project by creating issues or pull requests.
