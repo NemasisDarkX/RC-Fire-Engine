@@ -29,7 +29,7 @@ std::vector<MOTOR_PINS> motorPins =
   {21, 5, 18},  //LEFT_MOTOR  Pins (EnB, IN3, IN4)
 };
 
-SERVO_RELAY_PINS servoRelayPins = {22, 23};  
+SERVO_RELAY_PINS servoRelayPins = {22, 23};   // servo and relay pins(servo,relay)
 
 #define UP 1
 #define DOWN 2
